@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Beer Adviser</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands">No beers selected.</string>
+
+    <!-->Lista das cores de cerveja do Spinner</-->
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+
+    <string name="brandlight">This is the brand of light beer.</string>
+    <string name="brandamber">This is the brand of amber beer.</string>
+    <string name="branddark">This is the brand of dark beer</string>
+    <string name="brandbrown">This is the brand of brown beer</string>
+
+
+</resources>

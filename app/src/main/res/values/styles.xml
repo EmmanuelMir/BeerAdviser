@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorForeground">@color/red</item>
+        <item name="android:textColorPrimary">@color/red</item>
+    </style>
+
+    <style name="Theme.AppTheme.Light.Dialog.NoActionBar" parent="android:Theme.DeviceDefault.Light.Dialog.NoActionBar" />
+
+</resources>
+
